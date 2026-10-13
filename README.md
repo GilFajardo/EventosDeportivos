@@ -1,4 +1,4 @@
-# ProyectoFinal
+# Sistema de Reservaciones para Eventos Deportivos
 
 Aplicacion de escritorio para gestionar la reservacion de boletos y asientos
 en eventos deportivos. El proyecto esta desarrollado en Java Swing, utiliza
